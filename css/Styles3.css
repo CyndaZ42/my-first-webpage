@@ -1,0 +1,10 @@
+h1 {
+  color: orange;
+  font-weight: 12;
+  line-height: 10px;
+}
+
+p {
+  font-family: initial;
+  text-align: center;
+}
